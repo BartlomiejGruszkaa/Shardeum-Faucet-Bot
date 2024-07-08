@@ -1,1 +1,2 @@
-evm_address	discord_token
+evm_address  discord_token
+            ^tab between
